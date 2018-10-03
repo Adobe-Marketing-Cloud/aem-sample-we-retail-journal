@@ -46,7 +46,7 @@
     <!-- ====================================================================== -->
     <scm>
         <connection>scm:git:https://github.com/Adobe-Marketing-Cloud/aem-sample-we-retail-journal.git</connection>
-        <developerConnection>scm:git:git@github.com/Adobe-Marketing-Cloud/aem-sample-we-retail-journal.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:Adobe-Marketing-Cloud/aem-sample-we-retail-journal.git</developerConnection>
         <url>https://github.com/Adobe-Marketing-Cloud/aem-sample-we-retail-journal/tree/master</url>
         <tag>HEAD</tag>
     </scm>
